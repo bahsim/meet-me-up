@@ -3,6 +3,7 @@
 - [React](https://reactjs.org/) A JavaScript library for building user interfaces
 - [Material-UI](https://material-ui-next.com/) React components that implement Google's Material Design
 - [Redux](https://redux.js.org/) Predictable state container for JavaScript apps
+- [Redux-Form](https://redux-form.com/) The best way to manage your form state in Redux.
 - [React-Router](https://reacttraining.com/react-router/) Collection of navigational components that compose declaratively with your application
 - [Styled-Components](https://www.styled-components.com/) Visual primitives for the component age
 - [Offline-plugin](https://github.com/NekR/offline-plugin) Provides an offline experience for webpack projects
