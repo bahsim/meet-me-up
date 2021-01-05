@@ -40,7 +40,7 @@
     "@material-ui/pickers": "^3.2.6",
     "@material-ui/styles": "^4.3.3",
     "await-to-js": "^2.1.1",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "babel-polyfill": "^6.26.0",
     "connect-redis": "3.4.0",
     "cookie-parser": "^1.4.4",
